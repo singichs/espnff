@@ -1,7 +1,7 @@
 [![Build Status](https://travis-ci.org/rbarton65/espnff.svg?branch=master)](https://travis-ci.org/rbarton65/espnff) [![version](https://img.shields.io/badge/version-1.3.1-blue.svg)](https://github.com/rbarton65/espnff/blob/master/CHANGELOG.md) [![PyPI version](https://badge.fury.io/py/espnff.svg)](https://badge.fury.io/py/espnff)
 
-# This code is from rbarton65. Only file created by singichs is collectStats.py
 # ESPN Fantasy Football API
+This code is from rbarton65. Only file created by singichs is collectStats.py
 
 Using ESPN's Fantasy Football private API, this package interfaces with 
 ESPN Fantasy Football to gather data from any public league. A good way to mine data
